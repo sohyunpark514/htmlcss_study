@@ -1,0 +1,38 @@
+.profile {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.title {
+    text-align: center;
+    font-size: 16px
+}
+
+#special {
+    text-align: center;
+    color : blue;
+}
+
+.content {
+    text-align: center
+}
+
+p{
+    color:green
+}
+
+.box{
+    width: 100px;
+    background-color: cadetblue;
+    margin: 10px;
+    padding: 40px;
+    border-radius: 5px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    font-size: 10px;
+    box-shadow: 4px 4px;
+}   
+
